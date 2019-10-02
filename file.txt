@@ -9,3 +9,5 @@ Dit is een wijziging die ik hierna wil stashen.
 Nog eens.
 
 Dit is een wijziging door iemand anders gemaakt.
+
+Hierin doe ik nog een wijziging.
