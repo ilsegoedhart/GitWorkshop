@@ -1,2 +1,5 @@
 We moeten een test document aanmaken voor de eerste commit op GIT.
 We zullen zien of het werkt.
+
+Oke dat werkte. 
+Nu kijken of wijzigen ook werkt.
