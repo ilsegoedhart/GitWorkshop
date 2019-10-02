@@ -11,3 +11,6 @@ Nog eens.
 Dit is een wijziging door iemand anders gemaakt.
 
 Hierin doe ik nog een wijziging.
+
+dit is een wijziging in tweede.
+Ik doe nu iets in master.
