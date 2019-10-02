@@ -1,0 +1,2 @@
+We moeten een test document aanmaken voor de eerste commit op GIT.
+We zullen zien of het werkt.
